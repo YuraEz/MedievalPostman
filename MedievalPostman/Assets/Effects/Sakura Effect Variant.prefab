@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3463474350016751389
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3244185007384867966, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3244185007384867966, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.8579835
+      objectReference: {fileID: 0}
+    - target: {fileID: 3244185007384867966, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.5707547
+      objectReference: {fileID: 0}
+    - target: {fileID: 3244185007384867966, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_RootOrder
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.03999996
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.85
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5600014
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.03085778
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.80837286
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.022423942
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.58743376
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 175.628
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -72.01099
+      objectReference: {fileID: 0}
+    - target: {fileID: 3770628642196431033, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5556460899632312141, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 10301, guid: 0000000000000000f000000000000000, type: 0}
+    - target: {fileID: 8745243271195708489, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}
+      propertyPath: m_Name
+      value: Sakura Effect Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 75e5e5326b0b91145900319f8d2ccdd1, type: 3}

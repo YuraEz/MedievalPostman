@@ -1,0 +1,3660 @@
+fileFormatVersion: 2
+guid: bd14895997891c846a0084cb1d29a92e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Button_Elements_0
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3983
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de371c0d8a0e1a644a3280a01a773301
+      internalID: 407935444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_1
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984685f63b27d4c459dfabe8c46fef90
+      internalID: 1776516627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_2
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3981
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5adcbfb36c812e48b5a442d0d4f8bae
+      internalID: 960652817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_3
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 3985
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82642cac7494c4984dba24c56e77d2
+      internalID: 1015704015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_4
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247bda4828c875b44bf916807e378dd8
+      internalID: 809926203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27849e51a25d61847b9c59ddf239115d
+      internalID: 1092396356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_6
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3983
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bda3f5c2d86a8459c4af348384136b
+      internalID: 817001429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_7
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 3076
+        width: 1066
+        height: 1090
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b523181a6f75d0944a810073beadd314
+      internalID: -623892394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_8
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 3979
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8f44cde82afb24388ee09dc549679b
+      internalID: 1212542418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_9
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 3981
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c34c6ef593fc5448599e15a3c0e058
+      internalID: 1532219893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_10
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 3983
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f14a24bf5b2d24398083b6d29f12af
+      internalID: 1423312284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_11
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 3979
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc2065d4b7c83d43a8aa0e79bc005d4
+      internalID: 1921321972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3076
+        width: 879
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c636a0008189df4b9b77ff910f78bb7
+      internalID: -1254879325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_13
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 3076
+        width: 866
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b4a3369337ac44fb7c4f21e10d0912
+      internalID: -936051095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_14
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 3649
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effff82dc6b61474db390ae5614b8325
+      internalID: -28826075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_15
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 3076
+        width: 866
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76f61ff6342200448201861698b1bf1
+      internalID: -1436860398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_16
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 3637
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a5cc91bb1044844ba9503f2fce72ef
+      internalID: -183483399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_17
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3613
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84b917af5740845943754cc288cb4c
+      internalID: 1915724429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_18
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 3613
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f9764cab1472c4f8c2fc6006de00aa
+      internalID: -2099482373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_19
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 3613
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc40d178e2ef146be08987973f7d78
+      internalID: -1046742251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_20
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 3601
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d387eef68020741469bdfd7d8fb908cf
+      internalID: 11541687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_21
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 3454
+        width: 29
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b43585b765da847aaf198b38651603
+      internalID: -2143074502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_22
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 3466
+        width: 14
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312238bc7fb40c04794861f351881682
+      internalID: 1376741822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_23
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 3466
+        width: 36
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e1238271841342925a2a8f8b259da
+      internalID: 63030386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_24
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3527
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c9a91f98625f7499053c5e2a0578a0
+      internalID: 703128958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_25
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 3540
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7194a6657d1ba74c8dbb67faafc7b4c
+      internalID: 226876400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_26
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 3540
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f97a9f915d209742a462cc442a51d4c
+      internalID: -1853267501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_27
+      rect:
+        serializedVersion: 2
+        x: 3005
+        y: 3515
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863afade979dde44adff8511c643b08
+      internalID: -1979754903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_28
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 3515
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe7be26d0ebfbb4abb9505b718f1181
+      internalID: 554297577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_29
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 3515
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9598f7cae07a85488d0420555f79b6a
+      internalID: 792198981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_30
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3454
+        width: 6
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f2951e6d58fc04f94dbe410f927a88
+      internalID: -757594472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_31
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 3381
+        width: 26
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c6b826384b3b248bf47bcc731dbaf7
+      internalID: 910327217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_32
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 3430
+        width: 14
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed61ef6e9690604f961041a8c164ad7
+      internalID: 1279588210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_33
+      rect:
+        serializedVersion: 2
+        x: 3971
+        y: 3466
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5118296fee44bfb4cb7f63a7e34aacf9
+      internalID: -729041731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_34
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 3442
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbe0a7bb81938a41918f2d8056a9e7d
+      internalID: 1686577609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_35
+      rect:
+        serializedVersion: 2
+        x: 3961
+        y: 3405
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0739130dd6f73934fb9fab28436226f6
+      internalID: -167476358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_36
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 3271
+        width: 73
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab09c2b5fa8fbd4ebdda0b8bfce0fc3
+      internalID: 50385472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_37
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 3381
+        width: 19
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594d1ab396c48314e95ba963a8341418
+      internalID: 1135823940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_38
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 3393
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87f6b059660fe04d9dcfc2e8bdd2c8c
+      internalID: -637837905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_39
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 3393
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d412e0ab6049a418a1e27996d42ecc
+      internalID: 370247442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_40
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3064
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c03897a32489bb40b530247389b3e2f
+      internalID: -1110757816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_41
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3064
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c580f090af8ecd74691806fc72b28fd0
+      internalID: 882709263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_42
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 3064
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e386f8ae9b5834181d20bc7a59ba6f
+      internalID: -1026148539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_43
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 3064
+        width: 146
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847e361255a778249973aed34ecee290
+      internalID: 470343716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_44
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 3064
+        width: 171
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dede17e17504054f90669def8fd2a40
+      internalID: 2061319560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_45
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 3076
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c6c99c8efece6499ad6532a9aa05b8
+      internalID: -301297819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_46
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 3076
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b053574246ab43b71f8448910a972
+      internalID: -1609817183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_47
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 3064
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89692a8ae3dfdc64b8a170980e33af17
+      internalID: 1763029985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_48
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 3064
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ef799d38e7570438ead4fae60f23ed
+      internalID: -231845442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_49
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 3064
+        width: 134
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45513550aee11e4baebaefc8504a54b
+      internalID: 589095337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_50
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 3064
+        width: 122
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8490bef01b1e444aa4d636bb719572
+      internalID: 95425981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_51
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2990
+        width: 85
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fda4a9cec0161446b60b29137d33fd0
+      internalID: -1676898780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_52
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2099
+        width: 866
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed5ac3d39eaa654fba9be02b556325b
+      internalID: -1679088451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_53
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 2112
+        width: 879
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04af81e2161c2f445a098873b664e67c
+      internalID: 2091961219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_54
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 2990
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d93f2c7732f120408b65a764a7c083c
+      internalID: -908042638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_55
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 3017
+        width: 37
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7215168fa20e4290f3d9b37aad623
+      internalID: 595586852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_56
+      rect:
+        serializedVersion: 2
+        x: 3564
+        y: 3015
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a713ddde2858c549a4cd5ddea1316d3
+      internalID: -1905413699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_57
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2099
+        width: 879
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33706f7047ff40d45b19e89bdec70bc6
+      internalID: 2133356647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2673
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629042ecd135b3240871274e6976f040
+      internalID: 635755133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_59
+      rect:
+        serializedVersion: 2
+        x: 3094
+        y: 2112
+        width: 873
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180ef49ebc365d74c81813f0962b840a
+      internalID: -1000619277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_60
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2649
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082895709cefe704f9b611a49f0894c6
+      internalID: -738528421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_61
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2649
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f22a57bf27fc6468c0fca7f1ffa9e6
+      internalID: -136972212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_62
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 2649
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a944be686e3624bb8b134fe426f65f
+      internalID: 873742174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_63
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2636
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0b4aa23f11e794cbf12b0457178d62
+      internalID: -395646653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_64
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2551
+        width: 4
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e165e60a5591e646857b1b265f7ab0b
+      internalID: -433454934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_65
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 2478
+        width: 16
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5582bc62f03f88949b5f2a0a0a6756ed
+      internalID: -1762608429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_66
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2490
+        width: 14
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a79907e663d5e479e0ba55af92a203
+      internalID: -1507481555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_67
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2588
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda3113405a8ac49acd3b59b68a3264
+      internalID: -632865845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_68
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2563
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e189e73051ea4d849ade33140d40d5d6
+      internalID: 1667611414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_69
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 2466
+        width: 8
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c8e81263034f4f9d72ae6e06ae605
+      internalID: -1170106658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_70
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2502
+        width: 4
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5ca44615fed234b942abc3ececc878
+      internalID: -1294837830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_71
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2514
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3a64a20e1e1654dab6fe2bc8a47316
+      internalID: -371747284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_72
+      rect:
+        serializedVersion: 2
+        x: 3973
+        y: 2514
+        width: 6
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb51f913dac0f2a49be8a5f151ed7e46
+      internalID: 1836252715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_73
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2466
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d819a44b3d21ad4e9f2a323fae8a973
+      internalID: 694733599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_74
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 2380
+        width: 38
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8438ebffb6c83904999190e072a98224
+      internalID: 750277825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_75
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 2453
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2115045d3cd8c284baed1942f57f2bd0
+      internalID: -1861828231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_76
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 2441
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce085aeceab7ef4f95a247202f99670
+      internalID: -2015465488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_77
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 2417
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864e9dbfaa88b2498b8f37da50d7d23
+      internalID: 740314305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_78
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2441
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aa94f0694d77b4b8e4657e55988135
+      internalID: 792167871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_79
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 2112
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fc5ec6a9be0934ca1f04dff87dbac2
+      internalID: 105856522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_80
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 2099
+        width: 183
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f163b98e6503a8e4785379e972ce20de
+      internalID: 1187672041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_81
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 2099
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68cfecaa4ca9d458cfa6234b823396
+      internalID: 1134642671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_82
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 2099
+        width: 170
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329c436592885fa4b8e0744d0460cb6c
+      internalID: 1854986681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_83
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2099
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f58f2ffa9be1e49a60bd32c10af532
+      internalID: -277138284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_84
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 2099
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89ada7ef7ddba448db2e23623c6fed
+      internalID: -279864302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_85
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1135
+        width: 878
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9366ba8d37a774c8c31ae9af2ce842
+      internalID: 1820497594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_86
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2049
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73731ce93e7afe444be52760febdb21b
+      internalID: -1858227741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_87
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2049
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72dac5a758e2040896555507743429
+      internalID: 153831083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_88
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2038
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2647f1bb68824546bef49e9a4f17d50
+      internalID: 1556509270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_89
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2038
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07de14be25e59644b9073bdd78bea53b
+      internalID: -1404776086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_90
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 2026
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1270e1be02a2d0a44b9c0857f1eab7bb
+      internalID: -1082093978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_91
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 2042
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cda436e80e5794ea788f515d14a749
+      internalID: -276899878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_92
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 2038
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3510b4087d03e2c4fb0e0c3fe8c3bdc2
+      internalID: -713867043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_93
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 2049
+        width: 1061
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9922966566d34a742991ce3e10442006
+      internalID: 1387455312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_94
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 2038
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12e43799ec3afc4f99fb41fc0c49bbf
+      internalID: -305097600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_95
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1721
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ccd440d2019e846a1b23ef619ad750
+      internalID: 1759585324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_96
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 1135
+        width: 890
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26cdaba39776fa43b513993d4b85fc3
+      internalID: -12895941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_97
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1147
+        width: 1855
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6c9511f8d1caa40858cf1447aeeb44
+      internalID: -1759753999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_98
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1697
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d9d1be8b8a11346bba52d916d9a726
+      internalID: -888450553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_99
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1672
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47e814cbc3052438e3996a099736e9
+      internalID: -1293931318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_100
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1648
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1321f8b8d27538f4884957fe42e931e7
+      internalID: -832097508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_101
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1440
+        width: 37
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfa9585d107df242a49b51b5876e422
+      internalID: 1356597472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_102
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1501
+        width: 8
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121cc247acc58494b930c6e92001d1be
+      internalID: 1135592738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_103
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1538
+        width: 14
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bbcab4fe156f846970e1ec4b885a64
+      internalID: 1147051692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_104
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1501
+        width: 8
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dffba3dbd8504c4c8b41f1a8f049fd0
+      internalID: 320995938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_105
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 1489
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c462fffe131e3e459d9b8c719f23cc1
+      internalID: 316436902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_106
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 1453
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94dcc130b32fa8140bc4fe4629cf5b0b
+      internalID: -1121527076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_107
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1477
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf89e17b3d545547a8177da85461c1f
+      internalID: -18925022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_108
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1135
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0793aed4e697f44181fe9bccd40430d
+      internalID: -449896039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_109
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1123
+        width: 109
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e898587b28261ca46b0c4ef1c23ab9c0
+      internalID: 1650416454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_110
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1123
+        width: 124
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1499a70d2db046862d9f6166c6b8d
+      internalID: -1251108205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_111
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 1135
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697bce3f1d3776548b56584d2611dd6e
+      internalID: 932626205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_112
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1123
+        width: 1098
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b0aa88e4822fb4e9ecc0480511c91b
+      internalID: 286782980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_113
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 1135
+        width: 1056
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d281bb50c0d4499b5bd25864bf495
+      internalID: 951645059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_114
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1135
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed2052b0f944bd49b2c404d5868a921
+      internalID: 1440498629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_115
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 1135
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b66c2f8531a2e044aa3a9e4c22b6087
+      internalID: 215287555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1074
+        height: 1086
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b15eba8da9fe314bbeae1dfe2f429cb
+      internalID: 215295807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_117
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1074
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c841648987d1748850fcc515cdb73a
+      internalID: 936297210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_118
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 171
+        width: 878
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c7ac2b3d6290c4ea77d89813f3b8dc
+      internalID: 1705502506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_119
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1074
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0206e9ce43830843a3d0a6b0962cdd6
+      internalID: 633574115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_120
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 171
+        width: 1855
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8f77a40791d3f478b608b81319f17c
+      internalID: 41107150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_121
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 720
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecb5ad8e414a8d4f875f1cfd67634a5
+      internalID: 242880395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_122
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 732
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a631f7662345142b72bb8adcb7618e
+      internalID: -1060051696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_123
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 722
+        width: 24
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a86e1d3a2686d843b358a978cdd038e
+      internalID: 1261975838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_124
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 698
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333f77f7c8c7e05439e69c8aa12f591d
+      internalID: 933218886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_125
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 696
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a39fd4e0182b1f4f80d2c7d4e7fe3be
+      internalID: 816527579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_126
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 684
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3595044d124d2c24c904f083908b08e7
+      internalID: 84294675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_127
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 667
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9ba01cbcdb35c4a949887b45c94800
+      internalID: 1381194418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_128
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 586
+        width: 14
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca70610e922d3d4c9f333577ac6d95a
+      internalID: 1147399221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_129
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 598
+        width: 36
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efe461a3b65ebc49a4413aae6b9a4cb
+      internalID: -107256636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_130
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 672
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715848073aeb7a048b0093be1eb985b3
+      internalID: -1788259471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_131
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 635
+        width: 10
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539ee66e53141ed439bb8b27b4087b5e
+      internalID: -1443510864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_132
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 488
+        width: 18
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b264987e0cc0624c908d6097384195f
+      internalID: -893513781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_133
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 549
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfca2b6a994ca24b9e20d6f5c5f78ea
+      internalID: -332438358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_134
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 608
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d736f96725dc42aa327bcf0bda630
+      internalID: -2142880557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_135
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 574
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66de3b2408fccb4c9ca66f434c1fdca
+      internalID: -298533059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_136
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 553
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa81da8dd432d6f4797a4bbe4a21760b
+      internalID: -312285440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_137
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 549
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3d14da49793784394695bc29ecd20e
+      internalID: 778134879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_138
+      rect:
+        serializedVersion: 2
+        x: 3942
+        y: 537
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5333434aabab34d8762bd5c5b6ff10
+      internalID: -440163517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_139
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 527
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60b6cd9df5356f428a7d9bb0660a558
+      internalID: -1207176285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_140
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 525
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a210b2a3e8297c648bae5f73eb07292b
+      internalID: 631489162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_141
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 513
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb771b361cbb0ed43bd25b0413c9f25f
+      internalID: -31574951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_142
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 501
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7158fa66cd8ac14d9529a783553b1bd
+      internalID: 679049078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_143
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 391
+        width: 51
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2d0a6716ee46c46952a579e96951ef
+      internalID: -582175117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_144
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 159
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37d44f4d7f1cc74a84dafe52ce919fe
+      internalID: -925997065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_145
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 171
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe8d61316588a9408e98d2e4570d9d1
+      internalID: -922002534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_146
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 159
+        width: 122
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ca66b94b32b6041879267c02b4a797
+      internalID: -1890323304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_147
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 171
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb157d63b4bbe247991ff008ff40332
+      internalID: -1635914952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_148
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 171
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbf8e574225899418bfef63b70259b2
+      internalID: 754579275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_149
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 159
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c4769ef67e67145a96453a2b0b7bb7
+      internalID: -92427118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_150
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 159
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fcc25f36e3f1541be8995911786aad
+      internalID: -1328931602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_151
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 159
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0762332aded9c40b6b9e802b5bbb52
+      internalID: 1357593827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_152
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 171
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772cc407496f0fb48871a7ded67199d3
+      internalID: -1435848654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_153
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 171
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dec2a2ab228d2d4692412dc77bde6b9
+      internalID: -545517257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_154
+      rect:
+        serializedVersion: 2
+        x: 3588
+        y: 159
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b19edd0979996419ea42b0f26d4347
+      internalID: 1600386523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_155
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 159
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a45a0758771a543982f121fd25113e
+      internalID: 1835287859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_156
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 159
+        width: 60
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabc5c62e1cff544a64c93287517af2
+      internalID: -340568327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_157
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 159
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7984a7e738f8ec94787af71c7edb9233
+      internalID: 1195381924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_158
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 159
+        width: 1013
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb3f5cfb3d68814c8706ef7de3e8895
+      internalID: -385961571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Button_Elements_159
+      rect:
+        serializedVersion: 2
+        x: 4162
+        y: 0
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81642e00238697f4e885b85b2630c8ea
+      internalID: 956994558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bab42dd4ee5271044b8963cd18565775
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game_Button_Elements_0: 407935444
+      Game_Button_Elements_1: 1776516627
+      Game_Button_Elements_10: 1423312284
+      Game_Button_Elements_100: -832097508
+      Game_Button_Elements_101: 1356597472
+      Game_Button_Elements_102: 1135592738
+      Game_Button_Elements_103: 1147051692
+      Game_Button_Elements_104: 320995938
+      Game_Button_Elements_105: 316436902
+      Game_Button_Elements_106: -1121527076
+      Game_Button_Elements_107: -18925022
+      Game_Button_Elements_108: -449896039
+      Game_Button_Elements_109: 1650416454
+      Game_Button_Elements_11: 1921321972
+      Game_Button_Elements_110: -1251108205
+      Game_Button_Elements_111: 932626205
+      Game_Button_Elements_112: 286782980
+      Game_Button_Elements_113: 951645059
+      Game_Button_Elements_114: 1440498629
+      Game_Button_Elements_115: 215287555
+      Game_Button_Elements_116: 215295807
+      Game_Button_Elements_117: 936297210
+      Game_Button_Elements_118: 1705502506
+      Game_Button_Elements_119: 633574115
+      Game_Button_Elements_12: -1254879325
+      Game_Button_Elements_120: 41107150
+      Game_Button_Elements_121: 242880395
+      Game_Button_Elements_122: -1060051696
+      Game_Button_Elements_123: 1261975838
+      Game_Button_Elements_124: 933218886
+      Game_Button_Elements_125: 816527579
+      Game_Button_Elements_126: 84294675
+      Game_Button_Elements_127: 1381194418
+      Game_Button_Elements_128: 1147399221
+      Game_Button_Elements_129: -107256636
+      Game_Button_Elements_13: -936051095
+      Game_Button_Elements_130: -1788259471
+      Game_Button_Elements_131: -1443510864
+      Game_Button_Elements_132: -893513781
+      Game_Button_Elements_133: -332438358
+      Game_Button_Elements_134: -2142880557
+      Game_Button_Elements_135: -298533059
+      Game_Button_Elements_136: -312285440
+      Game_Button_Elements_137: 778134879
+      Game_Button_Elements_138: -440163517
+      Game_Button_Elements_139: -1207176285
+      Game_Button_Elements_14: -28826075
+      Game_Button_Elements_140: 631489162
+      Game_Button_Elements_141: -31574951
+      Game_Button_Elements_142: 679049078
+      Game_Button_Elements_143: -582175117
+      Game_Button_Elements_144: -925997065
+      Game_Button_Elements_145: -922002534
+      Game_Button_Elements_146: -1890323304
+      Game_Button_Elements_147: -1635914952
+      Game_Button_Elements_148: 754579275
+      Game_Button_Elements_149: -92427118
+      Game_Button_Elements_15: -1436860398
+      Game_Button_Elements_150: -1328931602
+      Game_Button_Elements_151: 1357593827
+      Game_Button_Elements_152: -1435848654
+      Game_Button_Elements_153: -545517257
+      Game_Button_Elements_154: 1600386523
+      Game_Button_Elements_155: 1835287859
+      Game_Button_Elements_156: -340568327
+      Game_Button_Elements_157: 1195381924
+      Game_Button_Elements_158: -385961571
+      Game_Button_Elements_159: 956994558
+      Game_Button_Elements_16: -183483399
+      Game_Button_Elements_17: 1915724429
+      Game_Button_Elements_18: -2099482373
+      Game_Button_Elements_19: -1046742251
+      Game_Button_Elements_2: 960652817
+      Game_Button_Elements_20: 11541687
+      Game_Button_Elements_21: -2143074502
+      Game_Button_Elements_22: 1376741822
+      Game_Button_Elements_23: 63030386
+      Game_Button_Elements_24: 703128958
+      Game_Button_Elements_25: 226876400
+      Game_Button_Elements_26: -1853267501
+      Game_Button_Elements_27: -1979754903
+      Game_Button_Elements_28: 554297577
+      Game_Button_Elements_29: 792198981
+      Game_Button_Elements_3: 1015704015
+      Game_Button_Elements_30: -757594472
+      Game_Button_Elements_31: 910327217
+      Game_Button_Elements_32: 1279588210
+      Game_Button_Elements_33: -729041731
+      Game_Button_Elements_34: 1686577609
+      Game_Button_Elements_35: -167476358
+      Game_Button_Elements_36: 50385472
+      Game_Button_Elements_37: 1135823940
+      Game_Button_Elements_38: -637837905
+      Game_Button_Elements_39: 370247442
+      Game_Button_Elements_4: 809926203
+      Game_Button_Elements_40: -1110757816
+      Game_Button_Elements_41: 882709263
+      Game_Button_Elements_42: -1026148539
+      Game_Button_Elements_43: 470343716
+      Game_Button_Elements_44: 2061319560
+      Game_Button_Elements_45: -301297819
+      Game_Button_Elements_46: -1609817183
+      Game_Button_Elements_47: 1763029985
+      Game_Button_Elements_48: -231845442
+      Game_Button_Elements_49: 589095337
+      Game_Button_Elements_5: 1092396356
+      Game_Button_Elements_50: 95425981
+      Game_Button_Elements_51: -1676898780
+      Game_Button_Elements_52: -1679088451
+      Game_Button_Elements_53: 2091961219
+      Game_Button_Elements_54: -908042638
+      Game_Button_Elements_55: 595586852
+      Game_Button_Elements_56: -1905413699
+      Game_Button_Elements_57: 2133356647
+      Game_Button_Elements_58: 635755133
+      Game_Button_Elements_59: -1000619277
+      Game_Button_Elements_6: 817001429
+      Game_Button_Elements_60: -738528421
+      Game_Button_Elements_61: -136972212
+      Game_Button_Elements_62: 873742174
+      Game_Button_Elements_63: -395646653
+      Game_Button_Elements_64: -433454934
+      Game_Button_Elements_65: -1762608429
+      Game_Button_Elements_66: -1507481555
+      Game_Button_Elements_67: -632865845
+      Game_Button_Elements_68: 1667611414
+      Game_Button_Elements_69: -1170106658
+      Game_Button_Elements_7: -623892394
+      Game_Button_Elements_70: -1294837830
+      Game_Button_Elements_71: -371747284
+      Game_Button_Elements_72: 1836252715
+      Game_Button_Elements_73: 694733599
+      Game_Button_Elements_74: 750277825
+      Game_Button_Elements_75: -1861828231
+      Game_Button_Elements_76: -2015465488
+      Game_Button_Elements_77: 740314305
+      Game_Button_Elements_78: 792167871
+      Game_Button_Elements_79: 105856522
+      Game_Button_Elements_8: 1212542418
+      Game_Button_Elements_80: 1187672041
+      Game_Button_Elements_81: 1134642671
+      Game_Button_Elements_82: 1854986681
+      Game_Button_Elements_83: -277138284
+      Game_Button_Elements_84: -279864302
+      Game_Button_Elements_85: 1820497594
+      Game_Button_Elements_86: -1858227741
+      Game_Button_Elements_87: 153831083
+      Game_Button_Elements_88: 1556509270
+      Game_Button_Elements_89: -1404776086
+      Game_Button_Elements_9: 1532219893
+      Game_Button_Elements_90: -1082093978
+      Game_Button_Elements_91: -276899878
+      Game_Button_Elements_92: -713867043
+      Game_Button_Elements_93: 1387455312
+      Game_Button_Elements_94: -305097600
+      Game_Button_Elements_95: 1759585324
+      Game_Button_Elements_96: -12895941
+      Game_Button_Elements_97: -1759753999
+      Game_Button_Elements_98: -888450553
+      Game_Button_Elements_99: -1293931318
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
