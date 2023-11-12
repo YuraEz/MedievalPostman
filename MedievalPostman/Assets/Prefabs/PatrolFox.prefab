@@ -446,10 +446,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 256
-  enemyCheckDst: 10
-  pursueSpeed: 5
-  attackDistance: 8
+    m_Bits: 320
+  enemyCheckDst: 8
+  pursueSpeed: 4
+  attackDistance: 6
   agent: {fileID: 5772399583648693980}
   attackHandler: {fileID: 8264395266867975554}
   enemy: {fileID: 0}
@@ -485,13 +485,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackEffect: {fileID: 0}
-  damage: 10
+  damage: 7
   radius: 5
   angle: 90
   maxAttacked: 1
   damagableLayers:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 320
   MaxHealth: 25
 --- !u!114 &478902704995226334
 MonoBehaviour:
@@ -567,13 +567,39 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4914583974494117202, guid: ef141dcb45b0cef489a8a8c70628e93e, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 934208333795182388}
   m_SourcePrefab: {fileID: 100100000, guid: ef141dcb45b0cef489a8a8c70628e93e, type: 3}
 --- !u!4 &4616760497353793110 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4917584088523093034, guid: ef141dcb45b0cef489a8a8c70628e93e, type: 3}
   m_PrefabInstance: {fileID: 300830344479517308}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &4618687213189773102 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4914583974494117202, guid: ef141dcb45b0cef489a8a8c70628e93e, type: 3}
+  m_PrefabInstance: {fileID: 300830344479517308}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &934208333795182388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4618687213189773102}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fea29bb7c508c244a1f805a5fd3fc4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outlineMode: 0
+  outlineColor: {r: 0.882353, g: 0.60784316, b: 0.3372549, a: 1}
+  outlineWidth: 2
+  precomputeOutline: 0
+  bakeKeys: []
+  bakeValues: []
 --- !u!95 &4706052386968436514 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 4999983140827944286, guid: ef141dcb45b0cef489a8a8c70628e93e, type: 3}

@@ -19,7 +19,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private Animator animator;
 
     [Space]
-    [SerializeField] private float moveSpeed;
+    public float moveSpeed;
 
     [Space]
     [SerializeField] private PlayerState state;
@@ -120,7 +120,7 @@ public class PlayerController : MonoBehaviour
         {
             print("Минус 5% целостности посылки");
             ScoreManager.Instance.UpdateScore(5);
-            cameraShaker.CameraShake();
+            cameraShaker.CameraShake(0.5f);
 //            if (ScoreManager.Instance.ScoreValue > 3)
 //            {
 //                UIManager.Instance.ChangeScreen("Lose");

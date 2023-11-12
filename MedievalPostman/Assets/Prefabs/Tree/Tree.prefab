@@ -132,14 +132,14 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6251264327159700226}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 16.073729, y: -5.87039, z: 29.304638}
-  m_LocalScale: {x: 1, y: 7.2045, z: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6560597284713673681}
   - {fileID: 4836161429155179077}
-  - {fileID: 3076357421575567470}
+  - {fileID: 7562986690872796943}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!33 &3544310212771742384
@@ -213,6 +213,68 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1001 &4551943073735236970
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 6457432820185831971}
+    m_Modifications:
+    - target: {fileID: 3306844772613602868, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_Name
+      value: Dark Sakura Effect
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98096347
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.19419271
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 22.395
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+--- !u!4 &7562986690872796943 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
+  m_PrefabInstance: {fileID: 4551943073735236970}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &4831578006881497403
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -227,7 +289,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4584600193964926, guid: e47eeb5d02201e849b057cf2b2bc3455, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.13880214
+      value: 0.68429613
       objectReference: {fileID: 0}
     - target: {fileID: 4584600193964926, guid: e47eeb5d02201e849b057cf2b2bc3455, type: 3}
       propertyPath: m_LocalPosition.x
@@ -235,7 +297,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4584600193964926, guid: e47eeb5d02201e849b057cf2b2bc3455, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.427
+      value: -0.2061
       objectReference: {fileID: 0}
     - target: {fileID: 4584600193964926, guid: e47eeb5d02201e849b057cf2b2bc3455, type: 3}
       propertyPath: m_LocalPosition.z
@@ -286,78 +348,4 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4584600193964926, guid: e47eeb5d02201e849b057cf2b2bc3455, type: 3}
   m_PrefabInstance: {fileID: 4831578006881497403}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &9038595319756407307
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 6457432820185831971}
-    m_Modifications:
-    - target: {fileID: 3306844772613602868, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_Name
-      value: Dark Sakura Effect
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.4981209
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.48307946
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 2.6047194
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.21
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.746
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.40942597
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.57651573
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.40942597
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.57651573
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 109.237
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: -90
-      objectReference: {fileID: 0}
-    - target: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
---- !u!4 &3076357421575567470 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 6331744728483314277, guid: 84092e42cad62fa448e29fa251af09cc, type: 3}
-  m_PrefabInstance: {fileID: 9038595319756407307}
   m_PrefabAsset: {fileID: 0}

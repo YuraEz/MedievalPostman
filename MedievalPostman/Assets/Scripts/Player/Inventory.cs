@@ -12,10 +12,13 @@ public class Inventory : MonoBehaviour
     private SpawnOrder spawnOrder;
     public static Inventory Instance;
 
+    private PlayerController playerController;
+
     private void Awake()
     {
         Instance = this;
         spawnOrder = SpawnOrder.Instance;
+        playerController = GetComponent<PlayerController>();
     }
 
     private void Start()
@@ -90,6 +93,7 @@ public class Inventory : MonoBehaviour
             }
 
             UIManager.Instance.ChangeScreen("Win");
+            playerController.moveSpeed = 0;
         }
     }
 

@@ -16,9 +16,9 @@ public class CameraShaker : MonoBehaviour
     }
 
     [ContextMenu("Shake")]
-    public void CameraShake()
+    public void CameraShake(float strenght)
     {
-        PlayerCamera.DOShakeRotation(1, 1);
+        PlayerCamera.DOShakeRotation(1, strenght);
     }
 
 }
