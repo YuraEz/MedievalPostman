@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.SocialPlatforms.Impl;
-using static UnityEditor.Progress;
+//using static UnityEditor.Progress;
 
 
 public enum PlayerState { OnShip, Action }
