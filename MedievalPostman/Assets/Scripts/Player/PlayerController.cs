@@ -67,7 +67,8 @@ public class PlayerController : MonoBehaviour
 
         Vector3 movement = new Vector3(joystick.Horizontal, 0, joystick.Vertical);
         animator.SetBool("IsMove", movement != Vector3.zero);
-
+        //rb.MovePosition(transform.position + movement * Time.deltaTime * moveSpeed);
+        rb.velocity = movement * moveSpeed;
         if (movement != Vector3.zero)
         {
 
@@ -83,7 +84,7 @@ public class PlayerController : MonoBehaviour
             // Перемещаем персонаж.
             //rb.MovePosition(transform.position + movement * Time.deltaTime * moveSpeed);
 
-            rb.MovePosition(transform.position + movement * Time.deltaTime * moveSpeed);
+          
 
             transform.rotation = Quaternion.LookRotation(movement);
         }
