@@ -1,18 +1,21 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
+[RequireComponent(typeof(Button))]
 public class UIAudioBtnClick : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    [SerializeField] private AudioClip clip;
 
-    // Update is called once per frame
-    void Update()
+    private Button btn;
+
+    private void Awake()
     {
-        
+        btn = GetComponent<Button>();
+        btn.onClick.AddListener(() =>
+        {
+            ServiceLocator.GetService<AudioManager>().PlaySound(clip);
+        });
     }
 }

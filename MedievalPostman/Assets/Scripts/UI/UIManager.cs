@@ -11,6 +11,7 @@ public class UIManager : MonoBehaviour
     private void Awake()
     {
         Instance = this;
+        ChangeScreen(startScreen);
     }
 
     public void ChangeScreen(string screenName)
